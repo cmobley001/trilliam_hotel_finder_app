@@ -1,1 +1,3 @@
-# trilliam_hotel_finder_app
+# trillo_flex
+
+Hotel finder app
